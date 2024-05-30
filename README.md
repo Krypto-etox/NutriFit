@@ -17,7 +17,7 @@ Welcome to NutriFit, your go-to source for all things related to fruit nutrition
 
 ## Screenshots 📷
 
-![NutriFit Screenshot](Screenshot (318))
+![NutriFit Screenshot](Screenshot(318))
 
 
 ## Contributing 🤝
