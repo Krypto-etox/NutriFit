@@ -1,4 +1,4 @@
-# NutriFit 🍏🍌🍓
+# NutriFit 🍏
 
 Welcome to NutriFit, your go-to source for all things related to fruit nutrition! Whether you're a health enthusiast, a nutritionist, or just someone curious about the benefits of fruits, NutriFit has got you covered. This repository hosts the codebase for the NutriFit website.
 
@@ -12,8 +12,6 @@ Welcome to NutriFit, your go-to source for all things related to fruit nutrition
 ## Technologies Used 💻
 
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: (If applicable, otherwise remove this line)
-- **Frameworks/Libraries**: (If applicable, otherwise remove this line)
 
 ## Screenshots 📷
 
